@@ -1,0 +1,3 @@
+-- First Select 
+
+Selct * from dim_customer;
